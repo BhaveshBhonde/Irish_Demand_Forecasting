@@ -1,0 +1,8 @@
+streamlit
+pandas
+numpy
+joblib
+shap
+xgboost
+tensorflow-cpu
+plotly
